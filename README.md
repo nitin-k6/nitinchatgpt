@@ -15,3 +15,12 @@ Steps to access it:
 8. cd frontend --> This will jump to our frontend directory
 9. npm install --> This will install all our important dependencies and packages required in frontend to run application.
 10. npm start --> This will start frontend of our application. It automatically redirects us to the browser
+
+
+
+Main Problem I faced while building the website and how I have tackled
+
+The main problem I have faced was fetching chatgpt api key as it is paid feature so I was not able to fetch
+result using that. I have read the documentation and got to knnow that this feature was no longer free. So
+I had to use Google Gemini key to fetch the result and had to change the code accordingly. It is working
+good. And this flexibility also allow that whenever I want to change the api key I can do it. 
