@@ -1,6 +1,4 @@
-# nitinchatgpt
-
-
+Deployed Link : https://nitinchatgpt.netlify.app
 Steps to access it:
 
 1. clone or fork it
